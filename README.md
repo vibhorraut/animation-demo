@@ -1,3 +1,15 @@
+# Final output
+![react-animation-demo](https://github.com/user-attachments/assets/738c38eb-c064-4119-ba66-5e79ad65fa0c)
+
+npx create-react-app animation-demo
+cd animation-demo
+
+# Install necessary libraries:
+React Transition Group for handling animations
+npm install react-transition-group
+
+A basic React app with a component that animates its appearance and disappearance. The CSSTransition component from react-transition-group handles the transition states, and the CSS classes define the animation styles.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
